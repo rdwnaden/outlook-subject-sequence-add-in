@@ -1,0 +1,17 @@
+C:\Users\IT-PAL\source\repos\OutlookSubjectSequence\OutlookSubjectSequence\bin\Debug\OutlookSubjectSequence.dll
+C:\Users\IT-PAL\source\repos\OutlookSubjectSequence\OutlookSubjectSequence\bin\Debug\OutlookSubjectSequence.pdb
+C:\Users\IT-PAL\source\repos\OutlookSubjectSequence\OutlookSubjectSequence\bin\Debug\OutlookSubjectSequence.dll.manifest
+C:\Users\IT-PAL\source\repos\OutlookSubjectSequence\OutlookSubjectSequence\bin\Debug\OutlookSubjectSequence.vsto
+C:\Users\IT-PAL\source\repos\OutlookSubjectSequence\OutlookSubjectSequence\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\IT-PAL\source\repos\OutlookSubjectSequence\OutlookSubjectSequence\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Users\IT-PAL\source\repos\OutlookSubjectSequence\OutlookSubjectSequence\obj\Debug\OutlookSubjectSequence.csproj.AssemblyReference.cache
+C:\Users\IT-PAL\source\repos\OutlookSubjectSequence\OutlookSubjectSequence\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\IT-PAL\source\repos\OutlookSubjectSequence\OutlookSubjectSequence\obj\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Users\IT-PAL\source\repos\OutlookSubjectSequence\OutlookSubjectSequence\obj\Debug\OutlookSubjectSequence.csproj.ResolveComReference.cache
+C:\Users\IT-PAL\source\repos\OutlookSubjectSequence\OutlookSubjectSequence\obj\Debug\OutlookSubjectSequence.Properties.Resources.resources
+C:\Users\IT-PAL\source\repos\OutlookSubjectSequence\OutlookSubjectSequence\obj\Debug\OutlookSubjectSequence.csproj.GenerateResource.cache
+C:\Users\IT-PAL\source\repos\OutlookSubjectSequence\OutlookSubjectSequence\obj\Debug\OutlookSubjectSequence.csproj.CoreCompileInputs.cache
+C:\Users\IT-PAL\source\repos\OutlookSubjectSequence\OutlookSubjectSequence\obj\Debug\OutlookS.9B685C5D.Up2Date
+C:\Users\IT-PAL\source\repos\OutlookSubjectSequence\OutlookSubjectSequence\obj\Debug\OutlookSubjectSequence.dll
+C:\Users\IT-PAL\source\repos\OutlookSubjectSequence\OutlookSubjectSequence\obj\Debug\OutlookSubjectSequence.pdb
+C:\Users\IT-PAL\source\repos\OutlookSubjectSequence\OutlookSubjectSequence\bin\Debug\OutlookSubjectSequence.dll.config
